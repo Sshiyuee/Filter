@@ -6,6 +6,15 @@
 # 更新时间：2022-11-26
 ###############################################################
 
+# > Spotify
+USER-AGENT,Spotify*
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,-spotify-com
+
 # ======= 哔哩哔哩 ======= #
 DOMAIN-SUFFIX,biliapi.net,IP
 DOMAIN-SUFFIX,biliapi.com,IP 
